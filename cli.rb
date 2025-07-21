@@ -92,5 +92,4 @@ loop do
   break if char.downcase == 'q'
 end
 
-puts "\nProgram exited."
-
+puts "\nProgram ended."
